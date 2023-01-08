@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Bytebit',
   tagline: 'Official home for Bytebit documentation',
-  url: 'https://bytebit.dev',
+  url: 'http://www.bytebit.dev',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
